@@ -1,0 +1,8 @@
+.env
+__pycache__
+*.pem
+acc_setting.txt
+config
+IAM.txt
+fct_rds.py
+settings.json
