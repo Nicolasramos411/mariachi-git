@@ -147,7 +147,7 @@ def desition():
         mata_piscola = 1
 
     # Selecciona una opcion al azar
-    random_value = randint(0, 2)
+    random_value = randint(0, 1)
     random_option = options[random_value]
 
     images_links = [
